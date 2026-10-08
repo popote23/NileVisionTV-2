@@ -1,0 +1,154 @@
+[
+  {
+    "number": 1,
+    "name": "France 24 Français",
+    "country": "France",
+    "category": "Chaînes françaises",
+    "type": "hls",
+    "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8"
+  },
+  {
+    "number": 2,
+    "name": "France 24 English",
+    "country": "International",
+    "category": "Chaînes anglaises",
+    "type": "hls",
+    "url": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8"
+  },
+  {
+    "number": 3,
+    "name": "France 24 Arabic",
+    "country": "International",
+    "category": "Information",
+    "type": "hls",
+    "url": "https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8"
+  },
+  {
+    "number": 10,
+    "name": "Al Jazeera Arabic — direct officiel",
+    "country": "Qatar / Monde arabe",
+    "category": "Information",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=bNyUyrR0PHo"
+  },
+  {
+    "number": 11,
+    "name": "Al Jazeera Arabic — chaîne officielle",
+    "country": "Qatar / Monde arabe",
+    "category": "Chaînes égyptiennes",
+    "type": "youtube",
+    "url": "https://www.youtube.com/@aljazeera/streams"
+  },
+  {
+    "number": 101,
+    "name": "Ajouter un flux officiel autorisé",
+    "country": "Démonstration",
+    "category": "Chaînes marocaines",
+    "type": "hls",
+    "url": ""
+  },
+  {
+    "number": 201,
+    "name": "Ajouter un flux officiel autorisé",
+    "country": "Démonstration",
+    "category": "Chaînes algériennes",
+    "type": "hls",
+    "url": ""
+  },
+  {
+    "number": 301,
+    "name": "Ajouter un flux officiel autorisé",
+    "country": "Démonstration",
+    "category": "Cinéma arabe et égyptien",
+    "type": "hls",
+    "url": ""
+  },
+  {
+    "number": 401,
+    "name": "Ajouter un flux officiel autorisé",
+    "country": "Démonstration",
+    "category": "Cinéma français",
+    "type": "hls",
+    "url": ""
+  },
+  {
+    "number": 501,
+    "name": "Ajouter un flux officiel autorisé",
+    "country": "Démonstration",
+    "category": "Cinéma anglais",
+    "type": "hls",
+    "url": ""
+  },
+  {
+    "number": 601,
+    "name": "Ajouter un flux officiel autorisé",
+    "country": "Démonstration",
+    "category": "Documentaires arabes",
+    "type": "hls",
+    "url": ""
+  },
+  {
+    "number": 701,
+    "name": "Ajouter un flux officiel autorisé",
+    "country": "Démonstration",
+    "category": "Documentaires français",
+    "type": "hls",
+    "url": ""
+  },
+  {
+    "number": 801,
+    "name": "Ajouter un flux officiel autorisé",
+    "country": "Démonstration",
+    "category": "Documentaires monde",
+    "type": "hls",
+    "url": ""
+  },
+  {
+    "number": 901,
+    "name": "Ajouter un flux officiel autorisé",
+    "country": "Démonstration",
+    "category": "Musique arabe",
+    "type": "hls",
+    "url": ""
+  },
+  {
+    "number": 1001,
+    "name": "Ajouter un flux officiel autorisé",
+    "country": "Démonstration",
+    "category": "Musique française",
+    "type": "hls",
+    "url": ""
+  },
+  {
+    "number": 1101,
+    "name": "Ajouter un flux officiel autorisé",
+    "country": "Démonstration",
+    "category": "Musique monde",
+    "type": "hls",
+    "url": ""
+  },
+  {
+    "number": 1151,
+    "name": "Ajouter un flux officiel autorisé",
+    "country": "Démonstration",
+    "category": "Jeunesse",
+    "type": "hls",
+    "url": ""
+  },
+  {
+    "number": 1171,
+    "name": "Ajouter un flux officiel autorisé",
+    "country": "Démonstration",
+    "category": "Sport",
+    "type": "hls",
+    "url": ""
+  },
+  {
+    "number": 1201,
+    "name": "Nilesat — catalogue local",
+    "country": "Satellite",
+    "category": "Satellites",
+    "type": "hls",
+    "url": ""
+  }
+]
